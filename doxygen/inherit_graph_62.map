@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1cl_1_1SubCommand.html" title=" " alt="" coords="5,78,175,105"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1PassOptions.html" title="Base container class and manager for all pass options." alt="" coords="223,78,403,105"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PassPipelineOptions.html" title=" " alt="" coords="465,5,661,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1PassPipelineOptions.html" title=" " alt="" coords="461,71,666,112"/>
+<area shape="rect" id="node7" href="$classmlir_1_1PassPipelineOptions.html" title="Subclasses of PassPipelineOptions provide a set of options that can be used to initialize a pass pipe..." alt="" coords="451,137,676,163"/>
+<area shape="rect" id="node4" href="$structmlir_1_1EmptyPipelineOptions.html" title="A default empty option struct to be used for passes that do not need to take any options." alt="" coords="724,13,924,39"/>
+<area shape="rect" id="node6" href="$structmlir_1_1sparse__tensor_1_1SparseCompilerOptions.html" title="Options for the &quot;sparse&#45;compiler&quot; pipeline." alt="" coords="733,71,915,112"/>
+</map>

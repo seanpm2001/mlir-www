@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1PDLPatternConfig.html" title="An individual configuration for a pattern, which can be accessed by native functions via the PDLPatte..." alt="" coords="5,42,173,69"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PDLPatternConfigBase.html" title=" " alt="" coords="241,5,441,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PDLPatternConfigBase.html" title="This class provides a base class for users implementing a type of pattern configuration." alt="" coords="221,71,460,98"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PDLConversionConfig.html" title="A PDL configuration that is used to supported dialect conversion functionality." alt="" coords="508,13,703,39"/>
+</map>

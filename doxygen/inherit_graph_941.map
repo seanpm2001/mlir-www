@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Pass.html" title="The abstract base pass class." alt="" coords="5,115,91,141"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OperationPass.html" title=" " alt="" coords="139,6,317,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1ExternalPass.html" title="This pass class wraps external passes defined in other languages using the MLIR C&#45;interface." alt="" coords="159,85,297,112"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OperationPass.html" title="Pass to transform an operation of a specific type." alt="" coords="153,137,303,178"/>
+<area shape="rect" id="node11" href="$classmlir_1_1OperationPass_3_01void_01_4.html" title="Pass to transform an operation." alt="" coords="153,202,303,243"/>
+<area shape="rect" id="node3" href="$classmlir_1_1gpu_1_1SerializeToBlobPass.html" title="Base pass class to serialize kernel functions through LLVM into user&#45;specified IR and add the resulti..." alt="" coords="389,5,605,32"/>
+<area shape="rect" id="node6" href="$classmlir_1_1PassWrapper.html" title=" " alt="" coords="365,56,628,112"/>
+<area shape="rect" id="node8" href="$classmlir_1_1PassWrapper.html" title=" " alt="" coords="417,136,577,192"/>
+<area shape="rect" id="node10" href="$classmlir_1_1InterfacePass.html" title="Pass to transform an operation that implements the given interface." alt="" coords="425,217,568,258"/>
+<area shape="rect" id="node7" href="$classmlir_1_1sparse__tensor_1_1SparsificationAndBufferizationPass.html" title="A pass that lowers tensor ops to memref ops, regardless of whether they are dense or sparse." alt="" coords="676,63,931,105"/>
+<area shape="rect" id="node9" href="$classmlir_1_1detail_1_1OpToOpPassAdaptor.html" title="An adaptor pass used to run operation passes over nested operations." alt="" coords="713,143,893,185"/>
+</map>

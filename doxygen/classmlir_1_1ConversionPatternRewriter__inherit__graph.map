@@ -1,0 +1,10 @@
+<map id="mlir::ConversionPatternRewriter" name="mlir::ConversionPatternRewriter">
+<area shape="rect" id="node1" title="This class implements a pattern rewriter for use with ConversionPatterns." alt="" coords="55,319,286,345"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PatternRewriter.html" title="A special type of RewriterBase that coordinates the application of a rewrite pattern on the current I..." alt="" coords="5,237,163,263"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewriterBase.html" title="This class coordinates the application of a rewrite on a set of IR, providing a way for clients to tr..." alt="" coords="7,155,150,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpBuilder.html" title="This class helps build Operations." alt="" coords="16,80,136,107"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Builder.html" title="This class is a general helper class for creating context&#45;global objects like types,..." alt="" coords="25,5,127,32"/>
+<area shape="rect" id="node6" href="$structmlir_1_1RewriterBase_1_1Listener.html" title=" " alt="" coords="190,229,333,271"/>
+<area shape="rect" id="node7" href="$structmlir_1_1OpBuilder_1_1Listener.html" title="This class represents a listener that may be used to hook into various actions within an OpBuilder." alt="" coords="175,155,355,181"/>
+<area shape="rect" id="node8" href="$structmlir_1_1OpBuilder_1_1ListenerBase.html" title="Base class for listeners." alt="" coords="161,80,373,107"/>
+</map>

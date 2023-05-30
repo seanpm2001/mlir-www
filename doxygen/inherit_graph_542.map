@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Builder.html" title="This class is a general helper class for creating context&#45;global objects like types,..." alt="" coords="5,57,108,84"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpBuilder.html" title="This class helps build Operations." alt="" coords="202,57,322,84"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ImplicitLocOpBuilder.html" title="ImplicitLocOpBuilder maintains a &#39;current location&#39;, allowing use of the create&lt;&gt; method without spec..." alt="" coords="416,83,607,109"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewriterBase.html" title="This class coordinates the application of a rewrite on a set of IR, providing a way for clients to tr..." alt="" coords="440,32,583,59"/>
+<area shape="rect" id="node5" href="$classmlir_1_1IRRewriter.html" title="This class coordinates rewriting a piece of IR outside of a pattern rewrite, providing a way to keep ..." alt="" coords="689,5,813,32"/>
+<area shape="rect" id="node6" href="$classmlir_1_1PatternRewriter.html" title="A special type of RewriterBase that coordinates the application of a rewrite pattern on the current I..." alt="" coords="673,56,830,83"/>
+<area shape="rect" id="node7" href="$classmlir_1_1ConversionPatternRewriter.html" title="This class implements a pattern rewriter for use with ConversionPatterns." alt="" coords="896,79,1127,105"/>
+<area shape="rect" id="node8" href="$classmlir_1_1OneToNPatternRewriter.html" title="Specialization of PatternRewriter that OneToNConversionPatterns use." alt="" coords="908,28,1115,55"/>
+<area shape="rect" id="node9" href="$classmlir_1_1transform_1_1TransformState_1_1Extension.html" title="Base class for TransformState extensions that allow TransformState to contain user&#45;specified informat..." alt="" coords="655,195,848,237"/>
+<area shape="rect" id="node10" href="$classmlir_1_1transform_1_1TrackingListener.html" title="A listener that updates a TransformState based on IR modifications." alt="" coords="920,195,1103,237"/>
+<area shape="rect" id="node11" href="$classmlir_1_1tensor_1_1TrackingListener.html" title="A specialized TrackingListener for transform ops that operate on tensor IR." alt="" coords="1175,203,1385,229"/>
+<area shape="rect" id="node12" href="$structmlir_1_1OpBuilder_1_1ListenerBase.html" title="Base class for listeners." alt="" coords="156,137,368,164"/>
+<area shape="rect" id="node13" href="$structmlir_1_1OpBuilder_1_1Listener.html" title="This class represents a listener that may be used to hook into various actions within an OpBuilder." alt="" coords="421,137,601,164"/>
+<area shape="rect" id="node14" href="$structmlir_1_1RewriterBase_1_1Listener.html" title=" " alt="" coords="680,130,823,171"/>
+<area shape="rect" id="node15" href="$structmlir_1_1RewriterBase_1_1ForwardingListener.html" title="A listener that forwards all notifications to another listener." alt="" coords="934,130,1089,171"/>
+</map>

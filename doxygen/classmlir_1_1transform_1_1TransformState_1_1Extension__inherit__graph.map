@@ -1,0 +1,5 @@
+<map id="mlir::transform::TransformState::Extension" name="mlir::transform::TransformState::Extension">
+<area shape="rect" id="node1" title="Base class for TransformState extensions that allow TransformState to contain user&#45;specified informat..." alt="" coords="14,5,207,47"/>
+<area shape="rect" id="node2" href="$classmlir_1_1transform_1_1TrackingListener.html" title="A listener that updates a TransformState based on IR modifications." alt="" coords="19,95,202,136"/>
+<area shape="rect" id="node3" href="$classmlir_1_1tensor_1_1TrackingListener.html" title="A specialized TrackingListener for transform ops that operate on tensor IR." alt="" coords="5,184,216,211"/>
+</map>

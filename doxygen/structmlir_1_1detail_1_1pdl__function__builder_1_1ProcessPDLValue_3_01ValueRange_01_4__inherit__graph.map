@@ -1,0 +1,5 @@
+<map id="mlir::detail::pdl_function_builder::ProcessPDLValue&lt; ValueRange &gt;" name="mlir::detail::pdl_function_builder::ProcessPDLValue&lt; ValueRange &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="45,215,237,271"/>
+<area shape="rect" id="node2" href="$structmlir_1_1detail_1_1pdl__function__builder_1_1ProcessBuiltinPDLValue.html" title=" " alt="" coords="24,109,259,165"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1pdl__function__builder_1_1ProcessBuiltinPDLValue.html" title="This struct provides a simplified model for processing types that have &quot;builtin&quot; PDLValue support:" alt="" coords="5,5,277,47"/>
+</map>

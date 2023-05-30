@@ -1,0 +1,17 @@
+<map id="mlir::OpInterfaceRewritePattern&lt; SourceOp &gt;" name="mlir::OpInterfaceRewritePattern&lt; SourceOp &gt;">
+<area shape="rect" id="node1" title="OpInterfaceRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting a..." alt="" coords="651,133,833,175"/>
+<area shape="rect" id="node5" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="1100,5,1383,47"/>
+<area shape="rect" id="node7" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="1119,78,1363,134"/>
+<area shape="rect" id="node9" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="1150,163,1333,204"/>
+<area shape="rect" id="node14" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="1130,286,1353,342"/>
+<area shape="rect" id="node2" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title="OpOrInterfaceRewritePatternBase is a wrapper around RewritePattern that allows for matching and rewri..." alt="" coords="359,133,601,175"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements." alt="" coords="157,141,309,167"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,141,108,167"/>
+<area shape="rect" id="node6" href="$structFoldTensorCastProducerOp.html" title="Folds a tensor.cast op into a consuming DestinationStyleOpInterface op if the tensor...." alt="" coords="1452,10,1647,37"/>
+<area shape="rect" id="node8" href="$classmlir_1_1SROAPattern.html" title="Pattern applying SROA to the regions of the operations on which it matches." alt="" coords="1480,61,1619,87"/>
+<area shape="rect" id="node10" href="$structVectorizeConvolution.html" title=" " alt="" coords="1469,111,1629,138"/>
+<area shape="rect" id="node11" href="$structmlir_1_1linalg_1_1LinalgGeneralizationPattern.html" title="Linalg generalization pattern." alt="" coords="1432,163,1667,204"/>
+<area shape="rect" id="node12" href="$classmlir_1_1linalg_1_1LinalgOpToLibraryCallRewrite.html" title=" " alt="" coords="1464,228,1635,269"/>
+<area shape="rect" id="node13" href="$structmlir_1_1linalg_1_1LinalgPaddingPattern.html" title="Linalg padding pattern." alt="" coords="1454,293,1645,335"/>
+<area shape="rect" id="node15" href="$classmlir_1_1Mem2RegPattern.html" title="Pattern applying mem2reg to the regions of the operations on which it matches." alt="" coords="1465,359,1633,386"/>
+</map>

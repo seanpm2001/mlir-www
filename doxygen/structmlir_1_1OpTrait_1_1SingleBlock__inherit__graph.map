@@ -1,0 +1,6 @@
+<map id="mlir::OpTrait::SingleBlock&lt; ConcreteType &gt;" name="mlir::OpTrait::SingleBlock&lt; ConcreteType &gt;">
+<area shape="rect" id="node1" title="This class provides APIs and verifiers for ops with regions having a single block." alt="" coords="740,13,927,54"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpTrait_1_1SingleBlockImplicitTerminator_1_1Impl.html" title=" " alt="" coords="976,5,1216,61"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="467,13,691,54"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="5,13,212,54"/>
+</map>

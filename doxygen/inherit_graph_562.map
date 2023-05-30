@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1DataFlowAnalysis.html" title="Base class for all data&#45;flow analyses." alt="" coords="5,119,179,146"/>
+<area shape="rect" id="node2" href="$classmlir_1_1dataflow_1_1AbstractDenseDataFlowAnalysis.html" title="Base class for dense data&#45;flow analyses." alt="" coords="260,8,440,49"/>
+<area shape="rect" id="node4" href="$classmlir_1_1dataflow_1_1AbstractSparseBackwardDataFlowAnalysis.html" title="Base class for sparse (backward) data&#45;flow analyses." alt="" coords="227,75,473,116"/>
+<area shape="rect" id="node6" href="$classmlir_1_1dataflow_1_1AbstractSparseDataFlowAnalysis.html" title="Base class for sparse (forward) data&#45;flow analyses." alt="" coords="259,144,441,185"/>
+<area shape="rect" id="node12" href="$classmlir_1_1dataflow_1_1DeadCodeAnalysis.html" title="Dead code analysis analyzes control&#45;flow, as understood by RegionBranchOpInterface and BranchOpInterf..." alt="" coords="257,209,443,251"/>
+<area shape="rect" id="node3" href="$classmlir_1_1dataflow_1_1DenseDataFlowAnalysis.html" title="A dense (forward) data&#45;flow analysis for propagating lattices before and after the execution of every..." alt="" coords="549,5,740,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1dataflow_1_1SparseBackwardDataFlowAnalysis.html" title="A sparse (backward) data&#45;flow analysis for propagating SSA value lattices backwards across the IR by ..." alt="" coords="531,71,758,112"/>
+<area shape="rect" id="node7" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title=" " alt="" coords="521,137,768,193"/>
+<area shape="rect" id="node9" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title=" " alt="" coords="547,217,742,273"/>
+<area shape="rect" id="node11" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="A sparse (forward) data&#45;flow analysis for propagating SSA value lattices across the IR by implementin..." alt="" coords="547,297,742,339"/>
+<area shape="rect" id="node8" href="$classmlir_1_1dataflow_1_1IntegerRangeAnalysis.html" title="Integer range analysis determines the integer value range of SSA values using operations that define ..." alt="" coords="823,144,1030,185"/>
+<area shape="rect" id="node10" href="$classmlir_1_1dataflow_1_1SparseConstantPropagation.html" title="This analysis implements sparse constant propagation, which attempts to determine constant&#45;valued res..." alt="" coords="816,224,1037,265"/>
+</map>

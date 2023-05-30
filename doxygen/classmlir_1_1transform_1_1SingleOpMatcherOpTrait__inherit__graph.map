@@ -1,0 +1,5 @@
+<map id="mlir::transform::SingleOpMatcherOpTrait&lt; OpTy &gt;" name="mlir::transform::SingleOpMatcherOpTrait&lt; OpTy &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="37,215,223,256"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="5,124,255,165"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="27,5,233,47"/>
+</map>

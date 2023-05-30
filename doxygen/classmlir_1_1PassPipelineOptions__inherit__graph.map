@@ -1,0 +1,9 @@
+<map id="mlir::PassPipelineOptions&lt; T &gt;" name="mlir::PassPipelineOptions&lt; T &gt;">
+<area shape="rect" id="node1" title="Subclasses of PassPipelineOptions provide a set of options that can be used to initialize a pass pipe..." alt="" coords="453,46,679,73"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PassPipelineOptions.html" title=" " alt="" coords="919,5,1115,47"/>
+<area shape="rect" id="node6" href="$classmlir_1_1PassPipelineOptions.html" title=" " alt="" coords="915,71,1120,112"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1PassOptions.html" title="Base container class and manager for all pass options." alt="" coords="224,46,404,73"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1SubCommand.html" title=" " alt="" coords="5,46,175,73"/>
+<area shape="rect" id="node5" href="$structmlir_1_1EmptyPipelineOptions.html" title="A default empty option struct to be used for passes that do not need to take any options." alt="" coords="1169,13,1369,39"/>
+<area shape="rect" id="node7" href="$structmlir_1_1sparse__tensor_1_1SparseCompilerOptions.html" title="Options for the &quot;sparse&#45;compiler&quot; pipeline." alt="" coords="1178,71,1361,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mlir::PDLConversionConfig" name="mlir::PDLConversionConfig">
+<area shape="rect" id="node1" title="A PDL configuration that is used to supported dialect conversion functionality." alt="" coords="8,261,203,288"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PDLPatternConfigBase.html" title=" " alt="" coords="5,171,205,212"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PDLPatternConfig.html" title="An individual configuration for a pattern, which can be accessed by native functions via the PDLPatte..." alt="" coords="16,5,184,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PDLPatternConfigBase.html" title="This class provides a base class for users implementing a type of pattern configuration." alt="" coords="122,81,361,108"/>
+</map>

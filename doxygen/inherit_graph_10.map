@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classDefaultDoCastIfPossible.html" title=" " alt="" coords="5,381,185,408"/>
+<area shape="rect" id="node2" href="$structllvm_1_1CastInfo_3_01T_00_01_1_1mlir_1_1Operation_01_4.html" title="Cast from an (const) Operation &amp; to a derived operation type." alt="" coords="274,474,421,515"/>
+<area shape="rect" id="node3" href="$structllvm_1_1CastInfo_3_01To_00_01From_00_01std_1_1enable__if__t_3_01std_1_1is__same__v_3_01mli774ff16a31cb722e154d89b18c1bd274.html" title="Add support for llvm style casts." alt="" coords="239,5,455,120"/>
+<area shape="rect" id="node4" href="$structllvm_1_1CastInfo_3_01To_00_01From_00_01std_1_1enable__if__t_3_01std_1_1is__same__v_3_01mli6a5e3ead6c5b460698f7884024a29008.html" title="Add support for llvm style casts." alt="" coords="240,540,455,655"/>
+<area shape="rect" id="node5" href="$structllvm_1_1CastInfo_3_01To_00_01From_00_01std_1_1enable__if__t_3_01std_1_1is__same__v_3_01mlie03e405a48f00681f1cc8e16950ec198.html" title="Add support for llvm style casts." alt="" coords="236,145,459,245"/>
+<area shape="rect" id="node6" href="$structllvm_1_1CastInfo_3_01To_00_01From_00_01std_1_1enable__if__t_3_01std_1_1is__same__v_3_01mli5e51822f1eb56c00b332c0f6947c867d.html" title="Add support for llvm style casts." alt="" coords="233,269,461,369"/>
+<area shape="rect" id="node7" href="$structllvm_1_1CastInfo_3_1_1mlir_1_1Operation_01_5_00_01_1_1mlir_1_1Operation_01_5_01_4.html" title="Cast (const) Operation * to itself." alt="" coords="268,393,427,449"/>
+<area shape="rect" id="node8" href="$classNullableValueCastFailed.html" title=" " alt="" coords="6,305,185,332"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mlir::dataflow::IntegerRangeAnalysis" name="mlir::dataflow::IntegerRangeAnalysis">
+<area shape="rect" id="node1" title="Integer range analysis determines the integer value range of SSA values using operations that define ..." alt="" coords="1200,13,1407,54"/>
+<area shape="rect" id="node2" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title=" " alt="" coords="904,5,1151,61"/>
+<area shape="rect" id="node3" href="$classmlir_1_1dataflow_1_1AbstractSparseDataFlowAnalysis.html" title="Base class for sparse (forward) data&#45;flow analyses." alt="" coords="228,13,411,54"/>
+<area shape="rect" id="node5" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="A sparse (forward) data&#45;flow analysis for propagating SSA value lattices across the IR by implementin..." alt="" coords="460,42,655,83"/>
+<area shape="rect" id="node4" href="$classmlir_1_1DataFlowAnalysis.html" title="Base class for all data&#45;flow analyses." alt="" coords="5,20,179,47"/>
+</map>
